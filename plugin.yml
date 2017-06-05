@@ -1,0 +1,7 @@
+name: CreepzUtils
+main: me.creepz.utils.core.CreepzCore
+version: 1.0.0
+description: a utilites plugin
+commands:
+  creepz:
+    description: plugin base command, use /creepz help for a list of CreepzUtil commands.
